@@ -1,2 +1,2 @@
 # ExampleCI
-[![Build Status](https://travis-ci.org/PeeraJ/PromptPayQR.svg?branch=master)](https://travis-ci.org/PeeraJ/PromptPayQR)
+[![Build Status](https://travis-ci.org/PeeraJ/ExampleCI.svg)](https://travis-ci.org/PeeraJ/ExampleCI)
